@@ -1,0 +1,6 @@
+baseURL = "https://garrettsiegel.github.io/hugo-site/"
+languageCode = 'en-us'
+title = 'Hugo Site'
+
+[params]
+name = 'Garrett Siegel'
