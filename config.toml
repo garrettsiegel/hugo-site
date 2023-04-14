@@ -1,4 +1,4 @@
-baseURL = "https://garrettsiegel.github.io/hugo-site/"
+baseURL = "https://www.garrettsiegel.com/"
 languageCode = 'en-us'
 title = 'Hugo Site'
 
