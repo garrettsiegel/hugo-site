@@ -1,6 +1,6 @@
 baseURL = "https://www.garrettsiegel.com/"
 languageCode = 'en-us'
-title = 'Hugo Site'
+title = 'Garrett Siegel | Frontend Developer and Graphic Designer'
 
 [params]
 name = 'Garrett Siegel'
