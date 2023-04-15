@@ -11,7 +11,7 @@ class App {
     this.downButton = document.querySelector('.intro__button');
     this.events();
     this.headerAnimation();
-    // this.skillsAnimation();
+    this.skillsAnimation();
   }
 
   events = () => {

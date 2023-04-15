@@ -1,0 +1,38 @@
+$breakpoints: ("s": 780px, "m": 1000px, "l": 1300px)
+
+// Map breakpoints
+@function breakpoint($b)
+  @return map-get($breakpoints, $b)
+
+=from($b)
+  @media screen and (min-width: breakpoint($b))
+    @content
+
+=upto($b)
+  @media screen and (max-width: breakpoint($b) - 1px)
+    @content
+
+=reset
+  appearance: none
+  border: 0
+  outline: none
+  background-color: transparent
+  cursor: pointer
+  padding: 0
+
+=placeholder
+  background-color: #f0f0f0
+  width: 100%
+  height: 300px
+  display: flex
+  flex-direction: column
+  align-items: center
+  justify-content: center
+  border-bottom: 1px solid #d0d0d0
+
+
+=flexColumnAlignCenter
+  display: flex
+  flex-direction: column
+  align-items: center
+  
