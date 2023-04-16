@@ -6,12 +6,26 @@ gsap.registerPlugin(ScrollToPlugin, ScrollTrigger);
 
 class App {
   constructor() {
-    console.log('testing app.js');
+    console.log('app.js loaded');
 
+    // this.downButton = document.querySelector('.intro__button');
+    
+    // this.events();
+    // this.headerAnimation();
+    // this.skillsAnimation();
     this.downButton = document.querySelector('.intro__button');
-    this.events();
-    this.headerAnimation();
-    this.skillsAnimation();
+    this.introImage = document.querySelector('.intro__image');
+    this.aboutSkills = document.querySelector('.about__skills');
+
+    if (this.downButton) {
+      this.events();
+    }
+    if (this.introImage) {
+      this.headerAnimation();
+    }
+    if (this.aboutSkills) {
+      this.skillsAnimation();
+    }
   }
 
   events = () => {
@@ -38,7 +52,7 @@ class App {
         start: 'top 80%',
         end: 'bottom 55%',
         scrub: 1,
-        markers: true
+        // markers: true
       }
     });
     tl.from('.about__headline', { opacity: 0, y: 20 });
