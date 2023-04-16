@@ -5,7 +5,9 @@
 {{ $style := resources.Get "sass/main.sass" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
 <meta name="description" content="Garrett Siegel: Front End Developer | HTML, CSS, JavaScript | Explore my Portfolio & Discover High-Quality Web Solutions | Get in Touch for Custom Projects.">
 <link rel="stylesheet" href="{{ $style.Permalink }}">
-<link rel="shortcut icon" href="../images/favicon.ico" type="image/x-icon">
+<!-- <link rel="shortcut icon" href="../images/favicon.ico" type="image/x-icon"> -->
+<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+
 
 <!-- Import GSAP core -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.7.1/gsap.min.js"></script>

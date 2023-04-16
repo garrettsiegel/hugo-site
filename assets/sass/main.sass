@@ -11,7 +11,7 @@ $font-hind: 'Hind', sans-serif
   box-sizing: border-box
   font-family: $font-mont
   
-nav
+nav, footer
   background-color: #303030
   ul
     display: flex
@@ -24,15 +24,24 @@ nav
   a
     color: #fff
     text-decoration: none
-    text-transform: uppercase
-    border-bottom: 2px solid #fff
+    font-size: 14px
+    // text-transform: uppercase
+    // border-bottom: 2px solid #fff
+
+footer
+  p
+    text-align: center
+    color: #fff
+    padding: 1rem 0
+    font-size: 14px
 
 
 
-
+@import 'nav'
 @import 'mixins'
 @import 'about'
 @import 'current'
+@import 'typography'
 
 img
   width: 100%
@@ -116,4 +125,5 @@ img
 
 
 
-   
+.blog-wrapper, .graphic-design
+  min-height: 150vh
