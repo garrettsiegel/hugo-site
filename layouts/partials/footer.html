@@ -1,11 +1,23 @@
 {{ with .Params.hide_footer }}
 <!-- No footer here -->
 {{ else }}
-  <!-- <footer>
-  Website made by {{ .Site.Params.name }} in {{ now.Year }}
-  Professionally designed and developed by Garrett Siegel - Front End Developer & Graphic Designer © 2023. All rights reserved.
-  </footer> -->
   <footer>
+    <!-- <h4>Links</h4> -->
+    <div class="footer__container">
+      <ul>
+        <li>Garrett Siegel</li>
+        <li><a href="tel:5613101404">(561)310-1404</a></li>
+        <li><a href="mailto:{{ .Site.Params.email }}" target="_blank">garrett@submurgedcreative.com</a></li>
+      </ul>
+      <ul class="footer__ul flex">
+        <li><a href="https://www.linkedin.com/in/garrettsiegel/" target="_blank">LinkedIn</a></li>
+        <li><a href="https://github.com/garrettsiegel" target="_blank">GitHub</a></li>
+        <li><a href="https://codepen.io/garrettsiegel" target="_blank">CodePen</a></li>
+        <li><a href="https://www.behance.net/gsiegel" target="_blank">Behance</a></li>
+        <li><a href="https://www.upwork.com/freelancers/garrettsubmurged" target="_blank">Upwork</a></li>
+      </ul>
+    </div>
+    
     <p>Professionally designed and developed by   Website made by {{ .Site.Params.name }} - Front End Developer & Graphic Designer - {{ now.Year }}.</p>
   </footer>
 {{ end }}
