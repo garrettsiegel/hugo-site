@@ -12,18 +12,39 @@ footer
 
   
 
-    ul
+    // ul
 
     li
       list-style-type: none
       margin: 0 1rem
+      // font-weight: 700
+      h5
+        font-weight: 700
+        color: #fff
+        line-height: 1.5
+
+      
       a
         color: #fff
         text-decoration: none
-        font-size: 14px
+        font-size: 12px
+      
+        &.center
+          display: flex
+          flex-direction: column
+          justify-content: center
+          height: 25px
+
+  &__left
+    li
+      line-height: 1
 
   &__ul
     &.flex
       display: flex
 
+.footer__svg
+  width: 20px
   
+  path
+    fill: #fff
