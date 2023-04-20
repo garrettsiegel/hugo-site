@@ -52,7 +52,7 @@ class App {
         start: 'top 80%',
         end: 'bottom 55%',
         scrub: 1,
-        // markers: true
+        markers: true
       }
     });
     tl.from('.about__headline', { opacity: 0, y: 20 });
