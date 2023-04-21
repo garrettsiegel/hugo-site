@@ -1,0 +1,12 @@
+{{ $data := .Site.Data.mydata }}
+{{ range $data }}
+<div class="card">
+  <img class="card__image" src="{{ .image }}" alt="">
+  <div class="card__container">
+    <h4 class="card__title">{{ .title }}</h4>
+    <p class="card__text">{{ .text }}</p>
+    <a class="card__link" href="{{ .link }}" target="_blank">Link</a>
+  </div>
+</div>
+{{ end }}
+

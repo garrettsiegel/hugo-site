@@ -1,0 +1,14 @@
+[
+  {
+    "image": "../images/abstract-expression.gif",
+    "title": "Title Test 1",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus, quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.",
+    "link": "https://www.garrettsiegel.com"
+  },
+  {
+    "image": "../images/abstract-expression.gif",
+    "title": "Title Test 2",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus, quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.",
+    "link": "https://www.garrettsiegel.com"
+  }
+]
