@@ -1,4 +1,5 @@
 # Garrett Siegel's Portfolio
+#### Spring / Summer 2023
 ## https://www.garrettsiegel.com
 
 Welcome to my personal portfolio site! My name is Garrett Siegel, and I am a front-end developer and graphic designer with over 5 years of experience in the industry. I specialize in creating exceptional websites and seamless user experiences.
