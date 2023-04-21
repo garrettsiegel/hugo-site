@@ -23,12 +23,24 @@
     text-align: center
     margin-bottom: 1rem
 
-  &__image
+  &__image-desktop, &__image-mobile
     margin-bottom: 2rem
 
   &__container
     margin-bottom: 5rem
 
+
+
++from(s)
+  .current__image-desktop
+    display: block
+  .current__image-mobile
+    display: none
+
   
-    
++upto(s)
+  .current__image-desktop
+    display: none
+  .current__image-mobile
+    display: block
     

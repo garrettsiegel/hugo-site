@@ -1,12 +1,12 @@
 [
   {
-    "image": "../images/contemporary-polo-artwork.webp",
+    "image": "../images/optimized/contemporary-polo-artwork.jpg",
     "title": "Title Test 1",
     "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus, quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.",
     "link": "https://www.garrettsiegel.com"
   },
   {
-    "image": "../images/contemporary-polo-artwork.webp",
+    "image": "../images/optimized/contemporary-polo-artwork.jpg",
     "title": "Title Test 2",
     "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus, quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.",
     "link": "https://www.garrettsiegel.com"
