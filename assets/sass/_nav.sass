@@ -1,0 +1,27 @@
+nav
+  background-color: #303030
+  ul
+    display: flex
+    flex-direction: column
+    padding: .75rem 1.25rem
+  li
+    color: #fff
+    list-style-type: none
+  a
+    color: #fff
+    text-decoration: none
+    font-size: 14px
+
+@media screen and (min-width: 768px)
+  nav
+    ul
+      flex-direction: row
+      padding: 1.5rem 3rem
+
+    // li
+    //   margin-left: 0
+    li + li
+      margin-left: 1rem
+
+    li:last-child
+      margin-left: auto

@@ -1,0 +1,55 @@
+// .card + .card
+//   margin-top: 2rem
+
+// .card:first-child
+//   margin-top: 2rem
+
+// .card:last-child
+//   margin-bottom: 2rem
+
+.card
+  max-width: 700px
+  width: 100%
+  min-width: 100%
+  background-color: lightgray
+  padding: 1.5rem
+
+
+  .card
+    min-width: 50%
+
+  &__title
+    font-size: 1.5rem
+    font-weight: 900
+    // margin-bottom: 0.5rem
+    color: #303030
+
+  &__subtitle
+    font-size: 16px
+    font-weight: 700
+    // margin-bottom: 0.5rem
+    color: #007FFF
+
+  &__text
+    font-size: 18px
+    line-height: 1.3
+    font-weight: 400
+    // margin-bottom: 0.5rem
+
+  &__link
+    text-transform: uppercase
+    font-size: 18px
+    line-height: 1.3
+    font-weight: 700
+    margin-bottom: 0.5rem
+    color: #007FFF
+  
+@media screen and (min-width: 768px)
+  .card
+    height: 100%
+    // margin-bottom: auto
+    // align-self: stretch
+
+  
+
+  

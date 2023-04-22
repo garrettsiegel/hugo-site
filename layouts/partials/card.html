@@ -1,12 +1,23 @@
 {{ $data := .Site.Data.mydata }}
 {{ range $data }}
-<div class="card">
-  <img class="card__image" src="{{ .image }}" alt="">
-  <div class="card__container">
-    <h4 class="card__title">{{ .title }}</h4>
-    <p class="card__text">{{ .text }}</p>
-    <a class="card__link" href="{{ .link }}" target="_blank">Link</a>
+  <div class="card">
+    {{ with .image }}
+      <img class="card__image" src="{{ . }}" alt="">
+    {{ end }}
+    <div class="card__container">
+      {{ with .title }}
+        <h4 class="card__title">{{ . }}</h4>
+      {{ end }}
+      {{ with .subtitle }}
+        <h5 class="card__subtitle">{{ . }}</h5>
+      {{ end }}
+      {{ with .text }}
+        <p class="card__text">{{ . }}</p>
+      {{ end }}
+      {{ with .link }}
+        <a class="card__link" href="{{ . }}" target="_blank">Link</a>
+      {{ end }}
+    </div>
   </div>
-</div>
 {{ end }}
 

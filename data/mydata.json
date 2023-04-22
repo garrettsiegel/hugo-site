@@ -2,6 +2,7 @@
   {
     "image": "../images/optimized/contemporary-polo-artwork.jpg",
     "title": "Title Test 1",
+    "subtitle": "Subtitle Test",
     "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus, quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.",
     "link": "https://www.garrettsiegel.com"
   },
@@ -9,6 +10,18 @@
     "image": "../images/optimized/contemporary-polo-artwork.jpg",
     "title": "Title Test 2",
     "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus, quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.",
+    "link": "https://www.garrettsiegel.com"
+  },
+  {
+    "image": "../images/optimized/contemporary-polo-artwork.jpg",
+    "title": "Title Test 2",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus, quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.",
+    "link": "https://www.garrettsiegel.com"
+  },
+  {
+    "image": "../images/optimized/contemporary-polo-artwork.jpg",
+    "title": "Title Test 2",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus, quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus, quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.",
     "link": "https://www.garrettsiegel.com"
   }
 ]
