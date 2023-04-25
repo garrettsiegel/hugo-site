@@ -1,0 +1,33 @@
+<div class="module recent">
+
+  <div class="recent__header">
+    <h2 class="recent__title">Recent Work:</h2>
+    <span class="recent__span">Creative Front End Development</span>
+  </div>
+
+  {{ $data := .Site.Data.recent }}
+  {{ range $data }}
+    <div class="recent__container">
+      <div class="recent__image-outer">
+        {{ with .imagedesktop }}
+          <img class="recent__image-desktop" src="{{ . }}" alt="">
+        {{ end }}
+        {{ with .imagemobile }}
+          <img class="recent__image-mobile" src="{{ . }}" alt="">
+        {{ end }}
+      </div>
+      {{ with .title }}
+        <h3 class="recent__subhead">{{ . }}</h3>
+      {{ end }}
+      {{ with .text }}
+        <p class="recent__desc">{{ . }}</p>
+      {{ end }}
+      {{ with .link }}
+        <span class="link"><a class="recent__link" href="{{ . }}" target="_blank">Explore project here</a></span>
+      {{ end }}
+    </div>
+  {{ end }}
+  
+</div>
+
+

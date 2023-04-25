@@ -1,23 +1,19 @@
-.current
+.recent
 
   &__header
-    background-color: #303030
+    background-color: $color-blue-md
     margin-bottom: 3rem
     padding: 2rem
     color: #fff
 
-    .current__title
+    .recent__title
       color: #fff
       letter-spacing: 1.5px
       margin-bottom: .25rem
 
-    .current__span
+    .recent__span
       text-transform: uppercase
       font-weight: 700
-
-  // &__title
-  //   text-align: center
-  //   margin-bottom: 2rem
 
   &__subhead
     text-align: center
@@ -29,18 +25,17 @@
   &__container
     margin-bottom: 5rem
 
-
+  &__link
+    text-transform: uppercase
 
 +from(s)
-  .current__image-desktop
+  .recent__image-desktop
     display: block
-  .current__image-mobile
+  .recent__image-mobile
     display: none
-
   
 +upto(s)
-  .current__image-desktop
+  .recent__image-desktop
     display: none
-  .current__image-mobile
+  .recent__image-mobile
     display: block
-    

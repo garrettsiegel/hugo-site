@@ -1,0 +1,48 @@
+<div class="module webdev">
+  <h2 class="webdev__header">Frontend Development:<br>Blending Visual Design and Seamless User Experiences</h2>
+
+  <p>Welcome to the digital space of a dedicated and imaginative frontend web developer with a strong background in visual design. As a professional who has honed their craft in graphic, motion, and 3D design for many years, I have transitioned into web development with great enthusiasm and a commitment to creating stunning visuals and captivating user experiences. Currently, I'm immersing myself in the world of advanced Static Site Generation (SSG) using the powerful Hugo framework and mastering the versatile Golang programming language.</p>
+
+  <p>My design background sets me apart from others in the field, as it allows me to bring a unique perspective to creating design systems founded on the atomic design theory. This approach ensures modularity and cohesion in crafting mesmerizing user interfaces. As a detail-oriented developer, I excel in quality assurance (QA) and seamlessly convert intricate Figma designs into pixel-perfect web experiences that meet the most stringent specifications.</p>
+
+  <p>With a strong foundation in HTML, CSS, and JavaScript, I create bespoke web experiences that engage users and deliver top-notch functionality. My adaptability and experience with renowned JavaScript frameworks like React and Next.js make me the ideal candidate for a wide range of projects. I am well-versed in SASS CSS, which bolsters the efficiency and maintainability of my styling endeavors.</p>
+  
+  <p>Driven by a passion for exploring new possibilities, I strive to push the boundaries of user experience through cutting-edge technologies. My toolkit includes the extensive use of GreenSock Animation Platform (GSAP) and ScrollTrigger, enabling me to craft immersive animations and scroll-based interactions. Furthermore, my prowess in data visualization empowers clients to convey complex information in visually compelling and user-friendly formats.</p>
+
+  <p>So, if you're searching for a frontend web developer who combines technical expertise, creativity, and a wealth of design experience, you've come to the right place! Let's collaborate to bring your vision to life and create a digital presence that leaves a lasting impression on your audience.</p>
+
+
+  <div class="webdev__break">
+    <h4>Explore My Portfolio:</h4>
+    <p>A Blend of Frontend Web Development and Visual Design Craftsmanship</p>
+  </div>
+  
+   
+
+  <div class="projects">
+  {{ $data := .Site.Data.graphic }}
+  {{ range $data }}
+    <div class="card">
+      {{ with .image }}
+        <img class="card__image" src="{{ . }}" alt="">
+      {{ end }}
+      <div class="card__container">
+        {{ with .title }}
+          <h4 class="card__title">{{ . }}</h4>
+        {{ end }}
+        {{ with .subtitle }}
+          <h5 class="card__subtitle">{{ . }}</h5>
+        {{ end }}
+        {{ with .text }}
+          <p class="card__text">{{ . }}</p>
+        {{ end }}
+        {{ with .link }}
+          <a class="card__link" href="{{ . }}" target="_blank">Link</a>
+        {{ end }}
+      </div>
+    </div>
+  {{ end }}
+  </div>
+
+
+</div>
