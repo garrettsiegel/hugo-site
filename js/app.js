@@ -26,7 +26,29 @@ class App {
     if (this.aboutSkills) {
       this.skillsAnimation();
     }
+    
+    // this.scrollyTelly();
   }
+
+  scrollyTelly = () => {
+    const photos = gsap.utils.toArray(".desktopPhoto:not(:first-child)")
+
+
+    gsap.set(photos, {autoAlpha:0})
+
+    const animation = gsap.to(photos, {
+      autoAlpha:1, duration:1, stagger:1
+    })
+
+    ScrollTrigger.create({
+      trigger:".gallery",
+      start:"top top",
+      end:"bottom bottom",
+      pin:".right",
+      animation:animation,
+      scrub:true
+    })
+  };
 
   events = () => {
     this.downButton.addEventListener('click', this.downButtonHandler.bind(this));
