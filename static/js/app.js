@@ -28,7 +28,26 @@ class App {
     }
     
     // this.scrollyTelly();
+    this.setWidthAndHeightAttributes();
   }
+
+  setWidthAndHeightAttributes = () => {
+    console.log('setWidthAndHeightAttributes')
+    const images = document.querySelectorAll('img');
+    
+    images.forEach(img => {
+      if (!img.hasAttribute('width') || !img.hasAttribute('height')) {
+        const naturalWidth = img.naturalWidth || img.width;
+        const naturalHeight = img.naturalHeight || img.height;
+        
+        if (naturalWidth && naturalHeight) {
+          img.setAttribute('width', naturalWidth);
+          img.setAttribute('height', naturalHeight);
+        }
+      }
+    });
+  }
+  
 
   scrollyTelly = () => {
     const photos = gsap.utils.toArray(".desktopPhoto:not(:first-child)")
