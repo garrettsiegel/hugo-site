@@ -1,6 +1,6 @@
 [
   {
-    "image": "../images/video-scrub.png",
+    "image": "../images/video-scrub.webp",
     "title": "Scroll-Based Video Scrubber",
     "subtitle": "Sync Playback with HTML, CSS & JS",
     "text": "Discover a unique way to interact with videos using this scroll-based scrubber. This CodePen project leverages HTML, CSS, and JavaScript to link a video tag object with the user's scroll position, creating an immersive experience.",
@@ -8,13 +8,13 @@
     "linktext": "Experience Scroll-Controlled Playback"
   },
   {
-    "image": "../images/ai-fantasy-football-generator_desktop.jpg",
+    "image": "../images/ai-fantasy-football-generator_desktop.webp",
     "title": "AI Fantasy Football Team Name Generator",
     "subtitle": "OpenAI's DaVinci Text Model & Web Technologies",
     "text": "Explore AI-powered fantasy football team names with this innovative tool. Utilizing OpenAI's DaVinci text model, it combines user inputs from three dropdowns to generate unique names. This prototype highlights the power of HTML, CSS, and JavaScript in creating an engaging experience."
   },
   {
-    "image": "../images/restaurant-menu-site.jpg",
+    "image": "../images/restaurant-menu-site.webp",
     "title": "Interactive Restaurant Menu Manager",
     "subtitle": "React, Firebase & Cloud Firestore Powered Solution",
     "text": "Introducing a cutting-edge, interactive restaurant menu manager that simplifies the process of adding and deleting menu items. This single-page application, developed with React and React Bootstrap, leverages the power of Cloud Firestore's realtime database and Firebase's back-end service for seamless data synchronization. The intuitive CRUD interface, responsive design, and smooth navigation create an unparalleled user experience. Custom React hooks and effective state management make this app an essential tool for modern restaurant owners and managers.",
@@ -22,7 +22,7 @@
     "linktext": "Explore the Menu Manager Now"
   },
   {
-    "image": "../images/sneaker-smarter-site.jpg",
+    "image": "../images/sneaker-smarter-site.webp",
     "title": "Sneaker Smarter Lead Capture",
     "subtitle": "HTML, CSS & PHP Integration",
     "text": "A custom lead capture page for Sneaker Smarter, a weekly sneaker news site. This project involved updating the design with provided assets, creating a responsive layout using HTML, CSS, and PHP, and embedding essential functions.",
@@ -30,7 +30,7 @@
     "linktext": "View Capture Page"
   },
   {
-    "image": "../images/list-pagination.jpg",
+    "image": "../images/list-pagination.webp",
     "title": "Dynamic List Pagination & Filtering",
     "subtitle": "Enhancing UX with JS, HTML, & CSS",
     "text": "Explore a project that leverages JavaScript and progressive enhancement to transform a default list of 54 students into a dynamic, paginated list. Displaying 10 students per page, the solution incorporates navigation buttons, enabling users to easily browse through the list in a user-friendly manner.",
@@ -38,7 +38,7 @@
     "linktext": "View Dynamic Pagination Project"
   },
   {
-    "image": "../images/ftechfolk-site.jpg",
+    "image": "../images/ftechfolk-site.webp",
     "title": "FinTech Business Website Design",
     "subtitle": "Branding & Development with HTML, CSS & JS",
     "text": "Discover a small yet impactful website designed for a European financial tech company. This project entailed crafting the company's logo and site identity while also handling the site's coding, using HTML, CSS, and JavaScript to create a visually appealing and functional online presence.",
@@ -46,7 +46,7 @@
     "linktext": "See FinTech Website Design"
   },
   {
-    "image": "../images/interactive-form.jpg",
+    "image": "../images/interactive-form.webp",
     "title": "Advanced Interactive Registration Form",
     "subtitle": "JS, jQuery, HTML & CSS Integration",
     "text": "A project featuring an enhanced interactive registration form using Vanilla JavaScript and jQuery. With a focus on user experience, tasks included setting input field focus, creating unobtrusive fields, managing checkbox conditions, calculating item totals, displaying appropriate payment sections, and implementing form validation with error messages. The solution also supports real-time validation and works without JavaScript.",
@@ -54,7 +54,7 @@
     "linktext": "Experience the Advanced Form"
   },
   {
-    "image": "../images/arbitral-site.jpg",
+    "image": "../images/arbitral-site.webp",
     "title": "News App Landing Page",
     "subtitle": "HTML, CSS & Figma Design",
     "text": "Explore a captivating landing page for a news-based social media app. With only the logo and app screenshots provided, this project highlights skillful use of HTML, CSS, and Figma in design and prototyping, delivering an appealing user experience.",
