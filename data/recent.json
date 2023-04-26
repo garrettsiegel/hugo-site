@@ -1,21 +1,21 @@
 [
   {
-    "imagedesktop": "../images/optimized/design-systems_desktop.jpg",
-    "imagemobile": "../images/optimized/design-systems_mobile.jpg",
+    "imagedesktop": "../images/design-systems_desktop.webp",
+    "imagemobile": "../images/design-systems_mobile.webp",
     "title": "Design Systems: Embracing Atomic Design Theory for Customized Web Solutions",
     "text": "In recent projects, I've been implementing the latest Atomic Design theory techniques to create fully-customized web design systems. Utilizing cutting-edge CSS and CSS preprocessors, I've built scalable and modular systems that allow for efficient development and easy maintenance. My expertise in this area has led to beautifully designed websites that deliver seamless user experiences.",
     "link": "https://andscape.com/features/nfl-coach-comparisons-in-rooney-rule-era"
   },
   {
-    "imagedesktop": "../images/optimized/dynamic-web-and-scroll-trigger_desktop.jpg",
-    "imagemobile": "../images/optimized/dynamic-web-and-scroll-trigger_mobile.jpg",
+    "imagedesktop": "../images/dynamic-web-and-scroll-trigger_desktop.webp",
+    "imagemobile": "../images/dynamic-web-and-scroll-trigger_mobile.webp",
     "title": "Innovative Dynamic Web Page Design with GSAP and ScrollTrigger Integration",
     "text": "I recently completed an innovative dynamic web page design project that showcases my expertise in creating engaging and interactive user experiences. Working closely with the ESPN Visual Storytelling design team, I took their vision and transformed it into a responsive and visually appealing editorial piece using the powerful GSAP animation library and ScrollTrigger plugin. Collaborating with my development team, I created a custom experience that incorporates custom video and audio players, as well as carousel elements, ensuring a smooth and captivating user experience across various devices and platforms. This project demonstrates my proficiency in front-end development and my ability to leverage advanced animation techniques to bring design visions to life.",
     "link": "https://www.espn.com/espn/feature/story?id=34212123&_slug_=investigative-mccluskey"
   },
   {
-    "imagedesktop": "../images/optimized/data-visualization_desktop.jpg",
-    "imagemobile": "../images/optimized/data-visualization_mobile.jpg",
+    "imagedesktop": "../images/data-visualization_desktop.webp",
+    "imagemobile": "../images/data-visualization_mobile.webp",
     "title": "Data Visualization: Dynamic and Real-Time Web Experiences",
     "text": "I excel at utilizing both static and dynamic data to manipulate DOM events and enable real-time updates on the web. In a recent project, I effectively implemented seamless content updates as data changed in real time, creating a more engaging and interactive user experience.",
     "link": "https://www.espn.com/espn/feature/story/_/id/35297537/nfl-playoff-picture-live-updated-chances-clinch-projected-bracket-scenarios-win-probabilities-interesting-races-watch"
