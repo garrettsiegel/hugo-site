@@ -10,10 +10,10 @@
     <div class="recent__container">
       <div class="recent__image-outer">
         {{ with .imagedesktop }}
-          <img class="recent__image-desktop" src="{{ . }}" alt="">
+          <img class="recent__image-desktop" src="{{ . }}" alt="" loading="lazy">
         {{ end }}
         {{ with .imagemobile }}
-          <img class="recent__image-mobile" src="{{ . }}" alt="">
+          <img class="recent__image-mobile" src="{{ . }}" alt="" loading="lazy">
         {{ end }}
       </div>
       {{ with .title }}

@@ -24,7 +24,7 @@
     {{ range $key, $value := $data }}
       <div class="card">
         {{ with $value.image }}
-          <img class="card__image" src="{{ . }}" alt="">
+          <img class="card__image" src="{{ . }}" alt="" loading="lazy">
         {{ end }}
         <div class="card__container">
           {{ with $value.title }}
