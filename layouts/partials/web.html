@@ -20,28 +20,35 @@
    
 
   <div class="projects">
-  {{ $data := .Site.Data.graphic }}
-  {{ range $data }}
-    <div class="card">
-      {{ with .image }}
-        <img class="card__image" src="{{ . }}" alt="">
-      {{ end }}
-      <div class="card__container">
-        {{ with .title }}
-          <h4 class="card__title">{{ . }}</h4>
+    {{ $data := .Site.Data.web }}
+    {{ range $key, $value := $data }}
+      <div class="card">
+        {{ with $value.image }}
+          <img class="card__image" src="{{ . }}" alt="">
         {{ end }}
-        {{ with .subtitle }}
-          <h5 class="card__subtitle">{{ . }}</h5>
-        {{ end }}
-        {{ with .text }}
-          <p class="card__text">{{ . }}</p>
-        {{ end }}
-        {{ with .link }}
-          <a class="card__link" href="{{ . }}" target="_blank">Link</a>
-        {{ end }}
+        <div class="card__container">
+          {{ with $value.title }}
+            <h4 class="card__title">{{ . }}</h4>
+          {{ end }}
+          {{ with $value.subtitle }}
+            <h5 class="card__subtitle">{{ . }}</h5>
+          {{ end }}
+          {{ with $value.text }}
+            <p class="card__text">{{ . }}</p>
+          {{ end }}
+          {{ with $value.link }}
+            <a class="card__link" href="{{ . }}" target="_blank">
+              {{ with $value.linktext }}
+                {{ . }}
+              {{ else }}
+                Link
+              {{ end }}
+            </a>
+          {{ end }}
+        </div>
       </div>
-    </div>
-  {{ end }}
+    {{ end }}
+  
   </div>
 
 

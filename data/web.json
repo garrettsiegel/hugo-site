@@ -1,27 +1,40 @@
 [
   {
-    "image": "../images/optimized/contemporary-polo-artwork.jpg",
-    "title": "Title Test 1",
-    "subtitle": "Subtitle Test",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus, quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.",
-    "link": "https://www.garrettsiegel.com"
+    "image": "../images/video-scrub.png",
+    "title": "Scroll-Based Video Scrubber",
+    "subtitle": "Sync Playback with HTML, CSS & JS",
+    "text": "Discover a unique way to interact with videos using this scroll-based scrubber. This CodePen project leverages HTML, CSS, and JavaScript to link a video tag object with the user's scroll position, creating an immersive experience.",
+    "link": "https://codepen.io/garrettsiegel/pen/LYJwmvj",
+    "linktext": "Experience Scroll-Controlled Playback"
   },
   {
-    "image": "../images/optimized/contemporary-polo-artwork.jpg",
-    "title": "Title Test 2",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus, quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.",
-    "link": "https://www.garrettsiegel.com"
+    "image": "../images/ai-fantasy-football-generator_desktop.jpg",
+    "title": "AI Fantasy Football Team Name Generator",
+    "subtitle": "OpenAI's DaVinci Text Model & Web Technologies",
+    "text": "Explore AI-powered fantasy football team names with this innovative tool. Utilizing OpenAI's DaVinci text model, it combines user inputs from three dropdowns to generate unique names. This prototype highlights the power of HTML, CSS, and JavaScript in creating an engaging experience."
   },
   {
-    "image": "../images/optimized/contemporary-polo-artwork.jpg",
-    "title": "Title Test 2",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus, quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.",
-    "link": "https://www.garrettsiegel.com"
+    "image": "../images/sneaker-smarter-site.jpg",
+    "title": "Sneaker Smarter Lead Capture",
+    "subtitle": "HTML, CSS & PHP Integration",
+    "text": "A custom lead capture page for Sneaker Smarter, a weekly sneaker news site. This project involved updating the design with provided assets, creating a responsive layout using HTML, CSS, and PHP, and embedding essential functions.",
+    "link": "https://sneakersmarter.com",
+    "linktext": "View Capture Page"
   },
   {
-    "image": "../images/optimized/contemporary-polo-artwork.jpg",
-    "title": "Title Test 2",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus, quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus, quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.",
-    "link": "https://www.garrettsiegel.com"
+    "image": "../images/ftechfolk-site.jpg",
+    "title": "FinTech Business Website Design",
+    "subtitle": "Branding & Development with HTML, CSS & JS",
+    "text": "Discover a small yet impactful website designed for a European financial tech company. This project entailed crafting the company's logo and site identity while also handling the site's coding, using HTML, CSS, and JavaScript to create a visually appealing and functional online presence.",
+    "link": "https://garrettsiegel.github.io/Ftechfolks",
+    "linktext": "See FinTech Website Design"
+  },
+  {
+    "image": "../images/arbitral-site.jpg",
+    "title": "News App Landing Page",
+    "subtitle": "HTML, CSS & Figma Design",
+    "text": "Explore a captivating landing page for a news-based social media app. With only the logo and app screenshots provided, this project highlights skillful use of HTML, CSS, and Figma in design and prototyping, delivering an appealing user experience.",
+    "link": "https://garrettsiegel.github.io/arbitral",
+    "linktext": "See Landing Page"
   }
 ]

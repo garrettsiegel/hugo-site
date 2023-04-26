@@ -11,24 +11,29 @@
   max-width: 700px
   width: 100%
   min-width: 100%
-  background-color: lightgray
-  padding: 1.5rem
+  border: 2px solid $color-blue-md
+  padding: 1rem
 
 
   .card
     min-width: 50%
 
+  &__image
+    margin-bottom: 0.5rem
+
   &__title
     font-size: 1.5rem
+    line-height: 1
     font-weight: 900
-    // margin-bottom: 0.5rem
-    color: #303030
+    margin-bottom: 0.5rem
+    color: $color-blue-dk
 
   &__subtitle
     font-size: 16px
     font-weight: 700
-    // margin-bottom: 0.5rem
-    color: #007FFF
+    line-height: 1.3
+    margin-bottom: 0.5rem
+    color: $color-blue-md
 
   &__text
     font-size: 18px
@@ -39,10 +44,10 @@
   &__link
     text-transform: uppercase
     font-size: 18px
-    line-height: 1.3
+    line-height: 1
     font-weight: 700
     margin-bottom: 0.5rem
-    color: #007FFF
+    color: $color-blue-md
   
 @media screen and (min-width: 768px)
   .card
