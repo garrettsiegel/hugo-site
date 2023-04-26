@@ -32,48 +32,21 @@ class App {
   }
 
   setWidthAndHeightAttributes = () => {
-    console.log('setWidthAndHeightAttributes');
-
-    const setImageAttributes = (img) => {
+    console.log('setWidthAndHeightAttributes')
+    const images = document.querySelectorAll('img');
+    
+    images.forEach(img => {
       if (!img.hasAttribute('width') || !img.hasAttribute('height')) {
-        const setDimensions = () => {
-          const naturalWidth = img.naturalWidth || img.width;
-          const naturalHeight = img.naturalHeight || img.height;
-
-          if (naturalWidth && naturalHeight) {
-            img.setAttribute('width', naturalWidth);
-            img.setAttribute('height', naturalHeight);
-          }
-        };
-
-        if (img.complete) {
-          setDimensions();
-        } else {
-          img.addEventListener('load', setDimensions);
+        const naturalWidth = img.naturalWidth || img.width;
+        const naturalHeight = img.naturalHeight || img.height;
+        
+        if (naturalWidth && naturalHeight) {
+          img.setAttribute('width', naturalWidth);
+          img.setAttribute('height', naturalHeight);
         }
       }
-    };
-
-    const images = document.querySelectorAll('img');
-    images.forEach(setImageAttributes);
-
-    const observer = new MutationObserver((mutations) => {
-      mutations.forEach((mutation) => {
-        if (mutation.type === 'childList') {
-          mutation.addedNodes.forEach((node) => {
-            if (node.nodeType === Node.ELEMENT_NODE && node.tagName === 'IMG') {
-              setImageAttributes(node);
-            }
-          });
-        }
-      });
     });
-
-    observer.observe(document.body, {
-      childList: true,
-      subtree: true,
-    });
-  };
+  }
   
 
   scrollyTelly = () => {
