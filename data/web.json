@@ -1,5 +1,21 @@
 [
   {
+    "image": "../images/wnba.webp",
+    "title": "WNBA Triple-Double Explosion",
+    "subtitle": "Frontend Development with HTML & CSS",
+    "text": "A unique tribute to the vibrant performances in the WNBA with the 'WNBA Triple-Double Explosion' project. As a front-end developer, I worked extensively using HTML and CSS, revamping a previously employed template. Collaborating closely with designers, the project took a user-centric approach to display statistics and news about the top triple-double leaders in WNBA history. Leveraging CSS for enhanced visuals and HTML for structured data presentation, the project aimed to provide a superior user experience while maximizing engagement.",
+    "link": "https://www.espn.com/espn/feature/story/_/id/36180803/wnba-triple-doubles-leaders-stats",
+    "linktext": "Explore the WNBA Project"
+  },
+  {
+    "image": "../images/hinchliffe.webp",
+    "title": "Rebirth of Hinchliffe Stadium",
+    "subtitle": "Contributing Development & QA",
+    "text": "An chronicle of Hinchliffe Stadium's rebirth, a project where I served as a contributing developer. Complying with design specifications, I built various modules that played a crucial role in the site design, contributing to the overall visual storytelling of the stadium's reconstruction and its complicated history. In addition to this, my role included supporting the project quality assurance, ensuring the functionality and responsiveness of the developed modules, thereby enhancing the user interaction and overall experience of the site.",
+    "link": "https://andscape.com/features/hinchliffe-stadium-paterson-new-jersey-reconstruction-complicated-history",
+    "linktext": "Discover the Hinchliffe Stadium Story"
+  },
+  {
     "image": "../images/video-scrub.webp",
     "title": "Scroll-Based Video Scrubber",
     "subtitle": "Sync Playback with HTML, CSS & JS",
