@@ -1,5 +1,13 @@
 [
   {
+    "image": "../images/f1.webp",
+    "title": "Beginner's Guide to F1 Terms",
+    "subtitle": "Frontend Development with HTML & CSS",
+    "text": "A dive into the thrilling world of Formula 1 racing. As a front-end developer on this project, I worked primarily with HTML and CSS to modernize a previously used template. Collaborating closely with designers, the project focused on a visually pleasing and user-friendly design, clarifying and defining popular F1 terms. By utilizing HTML for structured content presentation and CSS for stylistic enhancements, we ensured an engaging and seamless user experience for anyone new to F1 racing.",
+    "link": "https://www.espn.com/espn/feature/story/_/id/36180474/f1-terms-explained",
+    "linktext": "Explore F1 Terms Guide"
+  },
+  {
     "image": "../images/wnba.webp",
     "title": "WNBA Triple-Double Explosion",
     "subtitle": "Frontend Development with HTML & CSS",
