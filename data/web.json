@@ -7,14 +7,7 @@
     "link": "https://www.espn.com/espn/feature/story/_/id/36180474/f1-terms-explained",
     "linktext": "Explore F1 Terms Guide"
   },
-  {
-    "image": "../images/wnba.webp",
-    "title": "WNBA Triple-Double Explosion",
-    "subtitle": "Frontend Development with HTML & CSS",
-    "text": "A unique tribute to the vibrant performances in the WNBA with the 'WNBA Triple-Double Explosion' project. As a front-end developer, I worked extensively using HTML and CSS, revamping a previously employed template. Collaborating closely with designers, the project took a user-centric approach to display statistics and news about the top triple-double leaders in WNBA history. Leveraging CSS for enhanced visuals and HTML for structured data presentation, the project aimed to provide a superior user experience while maximizing engagement.",
-    "link": "https://www.espn.com/espn/feature/story/_/id/36180803/wnba-triple-doubles-leaders-stats",
-    "linktext": "Explore the WNBA Project"
-  },
+ 
   {
     "image": "../images/hinchliffe.webp",
     "title": "Rebirth of Hinchliffe Stadium",
@@ -31,14 +24,9 @@
     "link": "https://codepen.io/garrettsiegel/pen/LYJwmvj",
     "linktext": "Experience Scroll-Controlled Playback"
   },
+  
   {
-    "image": "../images/ai-fantasy-football-generator_desktop.webp",
-    "title": "AI Fantasy Football Team Name Generator",
-    "subtitle": "OpenAI's DaVinci Text Model & Web Technologies",
-    "text": "Explore AI-powered fantasy football team names with this innovative tool. Utilizing OpenAI's DaVinci text model, it combines user inputs from three dropdowns to generate unique names. This prototype highlights the power of HTML, CSS, and JavaScript in creating an engaging experience."
-  },
-  {
-    "image": "../images/restaurant-menu-site.webp",
+    "image": "../images/menu-app.png",
     "title": "Interactive Restaurant Menu Manager",
     "subtitle": "React, Firebase & Cloud Firestore Powered Solution",
     "text": "Introducing a cutting-edge, interactive restaurant menu manager that simplifies the process of adding and deleting menu items. This single-page application, developed with React and React Bootstrap, leverages the power of Cloud Firestore's realtime database and Firebase's back-end service for seamless data synchronization. The intuitive CRUD interface, responsive design, and smooth navigation create an unparalleled user experience. Custom React hooks and effective state management make this app an essential tool for modern restaurant owners and managers.",

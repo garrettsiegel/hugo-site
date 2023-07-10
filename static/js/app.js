@@ -80,7 +80,7 @@ class App {
   headerAnimation = () => {
     const tl = gsap.timeline();
     tl.from('.intro__image', { duration: 2, opacity: 0, ease: 'power1' }, '+=0.5');
-    tl.from('.intro__overline', { duration: 1, opacity: 0, ease: 'power1' }, '-=1.5');
+    // tl.from('.intro__overline', { duration: 1, opacity: 0, ease: 'power1' }, '-=1.5');
     tl.from('.intro__name', { duration: 1, opacity: 0, ease: 'power1' }, '-=1');
     tl.from('.intro__desc', { duration: 1, opacity: 0, ease: 'power1' });
     tl.from('.intro__button', { duration: 1, opacity: 0, ease: 'power1' }, '-=1');
