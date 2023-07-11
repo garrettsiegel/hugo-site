@@ -7,16 +7,16 @@
     "link": "https://www.espn.com/espn/feature/story/_/id/37726817/fantasy-football-team-nfl-name-generator"
   },
   {
-    "imagedesktop": "../images/design-systems_desktop.webp",
-    "imagemobile": "../images/design-systems_mobile.webp",
+    "imagedesktop": "../images/design-systems.jpg",
+    "imagemobile": "../images/design-systems.jpg",
     "title": "Design Systems: Embracing Atomic Design Theory for Customized Web Solutions",
     "text": "In recent projects, I've been implementing the latest Atomic Design theory techniques to create fully-customized web design systems. Utilizing cutting-edge CSS and CSS preprocessors, I've built scalable and modular systems that allow for efficient development and easy maintenance. My expertise in this area has led to beautifully designed websites that deliver seamless user experiences.",
     "link": "https://andscape.com/features/nfl-coach-comparisons-in-rooney-rule-era"
   },
   
   {
-    "imagedesktop": "../images/data-visualization_desktop.webp",
-    "imagemobile": "../images/data-visualization_mobile.webp",
+    "imagedesktop": "../images/data-viz.jpg",
+    "imagemobile": "../images/data-viz.jpg",
     "title": "Data Visualization: Dynamic and Real-Time Web Experiences",
     "text": "I excel at utilizing both static and dynamic data to manipulate DOM events and enable real-time updates on the web. In a recent project, I effectively implemented seamless content updates as data changed in real time, creating a more engaging and interactive user experience.",
     "link": "https://www.espn.com/espn/feature/story/_/id/35297537/nfl-playoff-picture-live-updated-chances-clinch-projected-bracket-scenarios-win-probabilities-interesting-races-watch"
