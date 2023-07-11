@@ -1,4 +1,14 @@
 [
+  
+  {
+    "image": "../images/dynamic-web-and-scroll-trigger_desktop.webp",
+    "title": "LISTEN - A story about what happens when the people and institutions that are supposed to protect, fail.",
+    "subtitle": "Innovative Dynamic Web Page Design with GSAP and ScrollTrigger Integration",
+    "text": "I recently completed an innovative dynamic web page design project that showcases my expertise in creating engaging and interactive user experiences. Working closely with the ESPN Visual Storytelling design team, I took their vision and transformed it into a responsive and visually appealing editorial piece using the powerful GSAP animation library and ScrollTrigger plugin. Collaborating with my development team, I created a custom experience that incorporates custom video and audio players, as well as carousel elements, ensuring a smooth and captivating user experience across various devices and platforms. This project demonstrates my proficiency in front-end development and my ability to leverage advanced animation techniques to bring design visions to life.",
+    "link": "https://www.espn.com/espn/feature/story?id=34212123&_slug_=investigative-mccluskey",
+    "linktext": "Explore the Dynamic Web Design"
+  },
+  
   {
     "image": "../images/f1.webp",
     "title": "Beginner's Guide to F1 Terms",
