@@ -8,7 +8,14 @@
     "link": "https://www.espn.com/espn/feature/story?id=34212123&_slug_=investigative-mccluskey",
     "linktext": "Explore the Dynamic Web Design"
   },
-  
+  {
+    "image": "../images/menu-app.png",
+    "title": "Interactive Restaurant Menu Manager",
+    "subtitle": "React, Firebase & Cloud Firestore Powered Solution",
+    "text": "Introducing a cutting-edge, interactive restaurant menu manager that simplifies the process of adding and deleting menu items. This single-page application, developed with React and React Bootstrap, leverages the power of Cloud Firestore's realtime database and Firebase's back-end service for seamless data synchronization. The intuitive CRUD interface, responsive design, and smooth navigation create an unparalleled user experience. Custom React hooks and effective state management make this app an essential tool for modern restaurant owners and managers.",
+    "link": "https://garrettsiegel.github.io/react-firebase-restaurant-menu-directory",
+    "linktext": "Explore the Menu Manager Now"
+  },
   {
     "image": "../images/f1.webp",
     "title": "Beginner's Guide to F1 Terms",
@@ -35,14 +42,7 @@
     "linktext": "Experience Scroll-Controlled Playback"
   },
   
-  {
-    "image": "../images/menu-app.png",
-    "title": "Interactive Restaurant Menu Manager",
-    "subtitle": "React, Firebase & Cloud Firestore Powered Solution",
-    "text": "Introducing a cutting-edge, interactive restaurant menu manager that simplifies the process of adding and deleting menu items. This single-page application, developed with React and React Bootstrap, leverages the power of Cloud Firestore's realtime database and Firebase's back-end service for seamless data synchronization. The intuitive CRUD interface, responsive design, and smooth navigation create an unparalleled user experience. Custom React hooks and effective state management make this app an essential tool for modern restaurant owners and managers.",
-    "link": "https://garrettsiegel.github.io/react-firebase-restaurant-menu-directory",
-    "linktext": "Explore the Menu Manager Now"
-  },
+  
   {
     "image": "../images/sneaker-smarter-site.webp",
     "title": "Sneaker Smarter Lead Capture",
@@ -68,7 +68,7 @@
     "linktext": "See FinTech Website Design"
   },
   {
-    "image": "../images/interactive-form.webp",
+    "image": "../images/interactive-form.jpg",
     "title": "Advanced Interactive Registration Form",
     "subtitle": "JS, jQuery, HTML & CSS Integration",
     "text": "A project featuring an enhanced interactive registration form using Vanilla JavaScript and jQuery. With a focus on user experience, tasks included setting input field focus, creating unobtrusive fields, managing checkbox conditions, calculating item totals, displaying appropriate payment sections, and implementing form validation with error messages. The solution also supports real-time validation and works without JavaScript.",
