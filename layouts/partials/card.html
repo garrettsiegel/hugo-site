@@ -2,7 +2,7 @@
 {{ range $data }}
   <div class="card">
     {{ with .image }}
-      <img class="card__image" src="{{ . }}" alt="" loading="lazy">
+      <img class="card__image" data-src="{{ . }}" alt="" loading="lazy">
     {{ end }}
     <div class="card__container">
       {{ with .title }}

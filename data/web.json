@@ -1,7 +1,7 @@
 [
   
   {
-    "image": "../images/dynamic-web-and-scroll-trigger_desktop.webp",
+    "image": "https://res.cloudinary.com/drxro4uha/image/upload/v1689214360/mccluskey_zyw58l.jpg",
     "title": "LISTEN - A story about what happens when the people and institutions that are supposed to protect, fail.",
     "subtitle": "Innovative Dynamic Web Page Design with GSAP and ScrollTrigger Integration",
     "text": "I recently completed an innovative dynamic web page design project that showcases my expertise in creating engaging and interactive user experiences. Working closely with the ESPN Visual Storytelling design team, I took their vision and transformed it into a responsive and visually appealing editorial piece using the powerful GSAP animation library and ScrollTrigger plugin. Collaborating with my development team, I created a custom experience that incorporates custom video and audio players, as well as carousel elements, ensuring a smooth and captivating user experience across various devices and platforms. This project demonstrates my proficiency in front-end development and my ability to leverage advanced animation techniques to bring design visions to life.",
@@ -9,7 +9,7 @@
     "linktext": "Explore the Dynamic Web Design"
   },
   {
-    "image": "../images/menu-app.png",
+    "image": "https://res.cloudinary.com/drxro4uha/image/upload/v1689214419/menu-app_gok5uy.png",
     "title": "Interactive Restaurant Menu Manager",
     "subtitle": "React, Firebase & Cloud Firestore Powered Solution",
     "text": "Introducing a cutting-edge, interactive restaurant menu manager that simplifies the process of adding and deleting menu items. This single-page application, developed with React and React Bootstrap, leverages the power of Cloud Firestore's realtime database and Firebase's back-end service for seamless data synchronization. The intuitive CRUD interface, responsive design, and smooth navigation create an unparalleled user experience. Custom React hooks and effective state management make this app an essential tool for modern restaurant owners and managers.",
@@ -17,7 +17,7 @@
     "linktext": "Explore the Menu Manager Now"
   },
   {
-    "image": "../images/f1.webp",
+    "image": "https://res.cloudinary.com/drxro4uha/image/upload/v1689214419/f1_wdsyhj.webp",
     "title": "Beginner's Guide to F1 Terms",
     "subtitle": "Frontend Development with HTML & CSS",
     "text": "A dive into the thrilling world of Formula 1 racing. As a front-end developer on this project, I worked primarily with HTML and CSS to modernize a previously used template. Collaborating closely with designers, the project focused on a visually pleasing and user-friendly design, clarifying and defining popular F1 terms. By utilizing HTML for structured content presentation and CSS for stylistic enhancements, we ensured an engaging and seamless user experience for anyone new to F1 racing.",
@@ -26,7 +26,7 @@
   },
  
   {
-    "image": "../images/hinchliffe.webp",
+    "image": "https://res.cloudinary.com/drxro4uha/image/upload/v1689214478/hinchliffe_zsornl.webp",
     "title": "Rebirth of Hinchliffe Stadium",
     "subtitle": "Contributing Development & QA",
     "text": "An chronicle of Hinchliffe Stadium's rebirth, a project where I served as a contributing developer. Complying with design specifications, I built various modules that played a crucial role in the site design, contributing to the overall visual storytelling of the stadium's reconstruction and its complicated history. In addition to this, my role included supporting the project quality assurance, ensuring the functionality and responsiveness of the developed modules, thereby enhancing the user interaction and overall experience of the site.",
@@ -34,7 +34,7 @@
     "linktext": "Discover the Hinchliffe Stadium Story"
   },
   {
-    "image": "../images/video-scrub.webp",
+    "image": "https://res.cloudinary.com/drxro4uha/image/upload/v1689214478/video-scrub_kamhjm.png",
     "title": "Scroll-Based Video Scrubber",
     "subtitle": "Sync Playback with HTML, CSS & JS",
     "text": "Discover a unique way to interact with videos using this scroll-based scrubber. This CodePen project leverages HTML, CSS, and JavaScript to link a video tag object with the user's scroll position, creating an immersive experience.",
@@ -44,7 +44,7 @@
   
   
   {
-    "image": "../images/sneaker-smarter-site.webp",
+    "image": "https://res.cloudinary.com/drxro4uha/image/upload/v1689214533/sneaker-smarter-site_zhcefs.jpg",
     "title": "Sneaker Smarter Lead Capture",
     "subtitle": "HTML, CSS & PHP Integration",
     "text": "A custom lead capture page for Sneaker Smarter, a weekly sneaker news site. This project involved updating the design with provided assets, creating a responsive layout using HTML, CSS, and PHP, and embedding essential functions.",
@@ -52,7 +52,7 @@
     "linktext": "View Capture Page"
   },
   {
-    "image": "../images/list-pagination.webp",
+    "image": "https://res.cloudinary.com/drxro4uha/image/upload/v1689214533/list-pagination_dhxjal.jpg",
     "title": "Dynamic List Pagination & Filtering",
     "subtitle": "Enhancing UX with JS, HTML, & CSS",
     "text": "Explore a project that leverages JavaScript and progressive enhancement to transform a default list of 54 students into a dynamic, paginated list. Displaying 10 students per page, the solution incorporates navigation buttons, enabling users to easily browse through the list in a user-friendly manner.",
@@ -60,7 +60,7 @@
     "linktext": "View Dynamic Pagination Project"
   },
   {
-    "image": "../images/ftechfolk-site.webp",
+    "image": "https://res.cloudinary.com/drxro4uha/image/upload/v1689214587/ftechfolk-site_y3i4aj.jpg",
     "title": "FinTech Business Website Design",
     "subtitle": "Branding & Development with HTML, CSS & JS",
     "text": "Discover a small yet impactful website designed for a European financial tech company. This project entailed crafting the company's logo and site identity while also handling the site's coding, using HTML, CSS, and JavaScript to create a visually appealing and functional online presence.",
@@ -68,7 +68,7 @@
     "linktext": "See FinTech Website Design"
   },
   {
-    "image": "../images/interactive-form.jpg",
+    "image": "https://res.cloudinary.com/drxro4uha/image/upload/v1689214588/interactive-form_wopp8y.jpg",
     "title": "Advanced Interactive Registration Form",
     "subtitle": "JS, jQuery, HTML & CSS Integration",
     "text": "A project featuring an enhanced interactive registration form using Vanilla JavaScript and jQuery. With a focus on user experience, tasks included setting input field focus, creating unobtrusive fields, managing checkbox conditions, calculating item totals, displaying appropriate payment sections, and implementing form validation with error messages. The solution also supports real-time validation and works without JavaScript.",
@@ -76,7 +76,7 @@
     "linktext": "Experience the Advanced Form"
   },
   {
-    "image": "../images/arbitral-site.webp",
+    "image": "https://res.cloudinary.com/drxro4uha/image/upload/v1689214587/arbitral-site_jfc4qx.jpg",
     "title": "News App Landing Page",
     "subtitle": "HTML, CSS & Figma Design",
     "text": "Explore a captivating landing page for a news-based social media app. With only the logo and app screenshots provided, this project highlights skillful use of HTML, CSS, and Figma in design and prototyping, delivering an appealing user experience.",

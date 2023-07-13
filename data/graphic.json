@@ -1,27 +1,117 @@
 [
   {
-    "image": "../images/optimized/contemporary-polo-artwork.jpg",
-    "title": "Title Test 1",
-    "subtitle": "Subtitle Test",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus, quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.",
-    "link": "https://www.garrettsiegel.com"
+    "image": "https://res.cloudinary.com/drxro4uha/image/upload/v1689217044/abstract-expression-min_cc2bul.gif",
+    "title": "Abstract Code Based Animation",
+    "subtitle": "Adobe After Effects, JavaScript",
+    "text": "Using JavaScript to randomly generate, this animation was created using a script in After Effects.",
+    "link": ""
   },
   {
-    "image": "../images/optimized/contemporary-polo-artwork.jpg",
-    "title": "Title Test 2",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus, quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.",
-    "link": "https://www.garrettsiegel.com"
+    "image": "../images/infographic1.jpg",
+    "title": "Turmeric Infographic",
+    "subtitle": "Adobe Creative Cloud",
+    "text": "Inspired by Bauhaus design, this infographic was created to educate people about the health benefits of turmeric.",
+    "link": ""
   },
   {
-    "image": "../images/optimized/contemporary-polo-artwork.jpg",
-    "title": "Title Test 2",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus, quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.",
-    "link": "https://www.garrettsiegel.com"
+    "image": "../images/kroji-rig-2.gif",
+    "title": "Animated 3d Headshot Rig",
+    "subtitle": "Joysticks N Sliders, Adobe After Effects",
+    "text": "A fun animated 3d headshot rig created in After Effects using Joysticks N Sliders.",
+    "link": ""
   },
   {
-    "image": "../images/optimized/contemporary-polo-artwork.jpg",
-    "title": "Title Test 2",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus, quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus, quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.",
-    "link": "https://www.garrettsiegel.com"
+    "image": "../images/rtic-coolers2.jpg",
+    "title": "RTIC Coolers X Houston Texans",
+    "subtitle": "Adobe Creative Cloud",
+    "text": "Print and Web banner ads created for RTIC Coolers to promote their partnership with the Houston Texans.",
+    "link": ""
+  },
+  {
+    "image": "../images/memphis-ballet.jpg",
+    "title": "Memphis Ballet Artwork",
+    "subtitle": "Adobe Creative Cloud",
+    "text": "Abstracted Memphis Ballet artwork created for poster and advertising design.",
+    "link": ""
+  },
+  
+  {
+    "image": "../images/abstract1.jpg",
+    "title": "Abstract Piece",
+    "subtitle": "Mixed Media",
+    "text": "",
+    "link": ""
+  },
+  {
+    "image": "../images/abstract2.jpg",
+    "title": "Abstract Piece",
+    "subtitle": "Mixed Media",
+    "text": "",
+    "link": ""
+  },
+  {
+    "image": "../images/DJKHALED.jpg",
+    "title": "DJ Khaled",
+    "subtitle": "Adobe Illustrator",
+    "text": "Vector illustration of DJ Khaled.",
+    "link": ""
+  },
+  {
+    "image": "../images/polo.jpg",
+    "title": "Contemporary Equestrian Artwork",
+    "subtitle": "Mixed Media, Digital, Adobe Creative Cloud",
+    "text": "Contemporary equestrian artwork using mixed media and digital techniques.",
+    "link": ""
+  },
+  {
+    "image": "../images/lionfish.jpg",
+    "title": "Lionfish Informative Piece",
+    "subtitle": "Adobe Creative Cloud",
+    "text": "Infographic created to educate people about the invasive lionfish species with a focus on typography.",
+    "link": ""
+  },
+  
+  {
+    "image": "../images/abstract3.jpg",
+    "title": "Abstract Piece",
+    "subtitle": "Mixed Media",
+    "text": "",
+    "link": ""
+  },
+  {
+    "image": "../images/Kobe.jpg",
+    "title": "Kobe Bryant",
+    "subtitle": "Adobe Photoshop",
+    "text": "Digital mixed media piece of Kobe Bryant.",
+    "link": ""
+  },
+  {
+    "image": "../images/abstract4.jpg",
+    "title": "Abstract Piece",
+    "subtitle": "Mixed Media",
+    "text": "",
+    "link": ""
+  },
+  {
+    "image": "../images/kobe.gif",
+    "title": "Abstract Animation - Kobe Bryant",
+    "subtitle": "Adobe Creative Cloud",
+    "text": "",
+    "link": ""
+  },
+  
+  {
+    "image": "../images/cel-animation.gif",
+    "title": "Cel Animation",
+    "subtitle": "Adobe Creative Cloud",
+    "text": "Illustrated cel animation of a woman jogging, created using multiple pipeline techniques in Adobe Creative Cloud.",
+    "link": ""
+  },
+  {
+    "image": "../images/vitacost-halloween.gif",
+    "title": "Vitacost Halloween Animated Ad",
+    "subtitle": "Adobe After Effects",
+    "text": "Animated web banner ad created for Vitacost to promote their Halloween sale.",
+    "link": ""
   }
 ]

@@ -1,22 +1,22 @@
 [
   {
-    "imagedesktop": "../images/fantasy-football-name-generator.png",
-    "imagemobile": "../images/fantasy-football-name-generator.png",
+    "imagedesktop": "https://res.cloudinary.com/drxro4uha/image/upload/v1689217515/fantasy-football-name-generator_cjnodu.jpg",
+    "imagemobile": "https://res.cloudinary.com/drxro4uha/image/upload/v1689217515/fantasy-football-name-generator_cjnodu.jpg",
     "title": "Interactive Fantasy Football Name Generator: A Fusion of Sports and Creativity",
     "text": "I was a part of the team that crafted an engaging fantasy football team name generator. This project allowed users to derive personalized team names by choosing from a variety of football-themed options. An integral part of this build was an interactive game that engages users while they await their unique team names. Technologies used for this project included JavaScript, HTML, CSS (SASS), and Hugo, demonstrating my ability to effectively integrate various coding languages to create an interactive and fun user experience.",
     "link": "https://www.espn.com/espn/feature/story/_/id/37726817/fantasy-football-team-nfl-name-generator"
   },
   {
-    "imagedesktop": "../images/design-systems.jpg",
-    "imagemobile": "../images/design-systems.jpg",
+    "imagedesktop": "https://res.cloudinary.com/drxro4uha/image/upload/v1689217637/design-systems_uf7ovv.jpg",
+    "imagemobile": "https://res.cloudinary.com/drxro4uha/image/upload/v1689217637/design-systems_uf7ovv.jpg",
     "title": "Design Systems: Embracing Atomic Design Theory for Customized Web Solutions",
     "text": "In recent projects, I've been implementing the latest Atomic Design theory techniques to create fully-customized web design systems. Utilizing cutting-edge CSS and CSS preprocessors, I've built scalable and modular systems that allow for efficient development and easy maintenance. My expertise in this area has led to beautifully designed websites that deliver seamless user experiences.",
     "link": "https://andscape.com/features/nfl-coach-comparisons-in-rooney-rule-era"
   },
   
   {
-    "imagedesktop": "../images/data-viz.jpg",
-    "imagemobile": "../images/data-viz.jpg",
+    "imagedesktop": "https://res.cloudinary.com/drxro4uha/image/upload/v1689217637/data-viz_rvm6k5.jpg",
+    "imagemobile": "https://res.cloudinary.com/drxro4uha/image/upload/v1689217637/data-viz_rvm6k5.jpg",
     "title": "Data Visualization: Dynamic and Real-Time Web Experiences",
     "text": "I excel at utilizing both static and dynamic data to manipulate DOM events and enable real-time updates on the web. In a recent project, I effectively implemented seamless content updates as data changed in real time, creating a more engaging and interactive user experience.",
     "link": "https://www.espn.com/espn/feature/story/_/id/35297537/nfl-playoff-picture-live-updated-chances-clinch-projected-bracket-scenarios-win-probabilities-interesting-races-watch"

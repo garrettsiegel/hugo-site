@@ -1,13 +1,13 @@
 // import gsap from 'gsap/dist/gsap.js';
 // import ScrollToPlugin from 'gsap/ScrollToPlugin';
 // import ScrollTrigger from 'gsap/ScrollTrigger';
+import LazyLoad from "/js/lazyLoad.js";
 
 gsap.registerPlugin(ScrollToPlugin, ScrollTrigger);
 
 class App {
   constructor() {
-    console.log('app.js loaded');
-
+    new LazyLoad();
     // this.downButton = document.querySelector('.intro__button');
     
     // this.events();
@@ -28,7 +28,7 @@ class App {
     }
     
     // this.scrollyTelly();
-    this.setWidthAndHeightAttributes();
+    // this.setWidthAndHeightAttributes();
   }
 
   setWidthAndHeightAttributes = () => {
