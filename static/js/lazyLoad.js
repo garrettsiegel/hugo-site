@@ -5,7 +5,7 @@ class LazyLoad {
   }
 
   setupVariables = () => {
-    const allItems = [...document.querySelectorAll('[data-mobile-src], [data-desktop-src], [data-src]')];
+    const allItems = [...document.querySelectorAll('[data-mobile-src], [data-desktop-src], [data-src], video')];
     this.allLazyItems = allItems.filter(item => !item.classList.contains('no-lazy'));
     this.gridLazyItems = this.allLazyItems.filter(item => item.closest('.grid-item'));
     this.loadedItemsCount = 0;

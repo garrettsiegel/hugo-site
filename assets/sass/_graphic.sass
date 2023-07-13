@@ -1,11 +1,43 @@
 .module.graphic-design
   max-width: 1200px
-  padding: 2rem 0
+  padding: 2rem
   ul
     li
       list-style-type: none
 
-  .projects
+  .vitacost
+    background-color: $color-yellow
+    margin-top: 2rem
+    padding: 2rem
+
+  .items
+    display: grid
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr))
+    grid-gap: 1rem
+    margin-top: 2rem
+
+  .item
+    border: 2.5px solid $color-blue-lt
+    padding: 1rem
+    &__title
+      line-height: 1
+      font-weight: 900
+      color: $color-blue-md
+
+
+    &__subtitle
+      font-size: 0.9rem
+      font-weight: 700
+      line-height: 1
+      margin-top: 0.5rem
+
+    &__text
+      font-size: 1rem
+      line-height: 1.2
+      // font-weight: 500
+      margin-top: 0.5rem
+
+    &__link
     // grid-template-columns: 1fr 1fr 1fr
 
 .skills-header

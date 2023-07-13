@@ -1,0 +1,19 @@
+{{ $data := .Site.Data.graphic }}
+{{ range $data }}
+  <div class="item">
+    {{ with .image }}
+      <img class="item__image" data-src="{{ . }}" alt="" loading="lazy">
+    {{ end }}
+    <div class="item__container">
+      {{ with .title }}
+        <h4 class="item__title">{{ . }}</h4>
+      {{ end }}
+      {{ with .subtitle }}
+        <h5 class="item__subtitle">{{ . }}</h5>
+      {{ end }}
+      {{ with .text }}
+        <p class="item__text">{{ . }}</p>
+      {{ end }}
+    </div>
+  </div>
+{{ end }}

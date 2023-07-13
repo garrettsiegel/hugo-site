@@ -1,117 +1,133 @@
 [
   {
+    "image": "https://res.cloudinary.com/drxro4uha/image/upload/v1689224972/acura_bgklu0.jpg",
+    "title": "Acura Atomotive Advertising",
+    "subtitle": "Adobe Creative Cloud",
+    "text": "Print and web banner ads created for Acura Automotive."
+  },
+  {
     "image": "https://res.cloudinary.com/drxro4uha/image/upload/v1689217044/abstract-expression-min_cc2bul.gif",
     "title": "Abstract Code Based Animation",
     "subtitle": "Adobe After Effects, JavaScript",
-    "text": "Using JavaScript to randomly generate, this animation was created using a script in After Effects.",
-    "link": ""
+    "text": "Using JavaScript to randomly generate, this animation was created using a script in After Effects."
   },
   {
     "image": "../images/infographic1.jpg",
     "title": "Turmeric Infographic",
     "subtitle": "Adobe Creative Cloud",
-    "text": "Inspired by Bauhaus design, this infographic was created to educate people about the health benefits of turmeric.",
-    "link": ""
+    "text": "Inspired by Bauhaus design, this infographic was created to educate people about the health benefits of turmeric."
   },
   {
     "image": "../images/kroji-rig-2.gif",
     "title": "Animated 3d Headshot Rig",
     "subtitle": "Joysticks N Sliders, Adobe After Effects",
-    "text": "A fun animated 3d headshot rig created in After Effects using Joysticks N Sliders.",
-    "link": ""
+    "text": "A fun animated 3d headshot rig created in After Effects using Joysticks N Sliders."
   },
   {
     "image": "../images/rtic-coolers2.jpg",
     "title": "RTIC Coolers X Houston Texans",
     "subtitle": "Adobe Creative Cloud",
-    "text": "Print and Web banner ads created for RTIC Coolers to promote their partnership with the Houston Texans.",
-    "link": ""
+    "text": "Print and Web banner ads created for RTIC Coolers to promote their partnership with the Houston Texans."
   },
   {
     "image": "../images/memphis-ballet.jpg",
     "title": "Memphis Ballet Artwork",
     "subtitle": "Adobe Creative Cloud",
-    "text": "Abstracted Memphis Ballet artwork created for poster and advertising design.",
-    "link": ""
+    "text": "Abstracted Memphis Ballet artwork created for poster and advertising design."
   },
   
   {
     "image": "../images/abstract1.jpg",
     "title": "Abstract Piece",
     "subtitle": "Mixed Media",
-    "text": "",
-    "link": ""
+    "text": ""
+  },
+  {
+    "image": "https://res.cloudinary.com/drxro4uha/image/upload/v1689225407/drain-buzz_lmhhlz.jpg",
+    "title": "Packaging Design",
+    "subtitle": "Adobe Illustrator",
+    "text": "Packaging design for a drain cleaning product."
   },
   {
     "image": "../images/abstract2.jpg",
     "title": "Abstract Piece",
     "subtitle": "Mixed Media",
-    "text": "",
-    "link": ""
+    "text": ""
   },
   {
     "image": "../images/DJKHALED.jpg",
     "title": "DJ Khaled",
     "subtitle": "Adobe Illustrator",
-    "text": "Vector illustration of DJ Khaled.",
-    "link": ""
+    "text": "Vector illustration of DJ Khaled."
   },
   {
     "image": "../images/polo.jpg",
     "title": "Contemporary Equestrian Artwork",
     "subtitle": "Mixed Media, Digital, Adobe Creative Cloud",
-    "text": "Contemporary equestrian artwork using mixed media and digital techniques.",
-    "link": ""
+    "text": "Contemporary equestrian artwork using mixed media and digital techniques."
   },
   {
     "image": "../images/lionfish.jpg",
     "title": "Lionfish Informative Piece",
     "subtitle": "Adobe Creative Cloud",
-    "text": "Infographic created to educate people about the invasive lionfish species with a focus on typography.",
-    "link": ""
+    "text": "Infographic created to educate people about the invasive lionfish species with a focus on typography."
   },
   
   {
     "image": "../images/abstract3.jpg",
     "title": "Abstract Piece",
     "subtitle": "Mixed Media",
-    "text": "",
-    "link": ""
+    "text": ""
   },
   {
     "image": "../images/Kobe.jpg",
     "title": "Kobe Bryant",
     "subtitle": "Adobe Photoshop",
-    "text": "Digital mixed media piece of Kobe Bryant.",
-    "link": ""
+    "text": "Digital mixed media piece of Kobe Bryant."
   },
   {
     "image": "../images/abstract4.jpg",
     "title": "Abstract Piece",
     "subtitle": "Mixed Media",
-    "text": "",
-    "link": ""
+    "text": ""
   },
   {
     "image": "../images/kobe.gif",
     "title": "Abstract Animation - Kobe Bryant",
     "subtitle": "Adobe Creative Cloud",
-    "text": "",
-    "link": ""
+    "text": ""
   },
   
   {
     "image": "../images/cel-animation.gif",
     "title": "Cel Animation",
     "subtitle": "Adobe Creative Cloud",
-    "text": "Illustrated cel animation of a woman jogging, created using multiple pipeline techniques in Adobe Creative Cloud.",
-    "link": ""
+    "text": "Illustrated cel animation of a woman jogging, created using multiple pipeline techniques in Adobe Creative Cloud."
   },
   {
-    "image": "../images/vitacost-halloween.gif",
-    "title": "Vitacost Halloween Animated Ad",
+    "image": "https://res.cloudinary.com/drxro4uha/image/upload/v1689225190/real-estate_zhpbfm.jpg",
+    "title": "Real Estate Advertising",
+    "subtitle": "Adobe Creative Cloud",
+    "text": "Real estate listing advertising."
+  },
+  {
+    "image": "https://res.cloudinary.com/drxro4uha/image/upload/v1689225681/foghorn-evoque_logo-animation_draft1_ed88bq.gif",
+    "title": "Animated Logo Design",
     "subtitle": "Adobe After Effects",
-    "text": "Animated web banner ad created for Vitacost to promote their Halloween sale.",
-    "link": ""
+    "text": "Logo animation created for Foghorn Creative."
+  },
+  {
+    "image": "https://res.cloudinary.com/drxro4uha/image/upload/v1689225875/id90-summit_logo_akpwsg.jpg",
+    "title": "Logo Design",
+    "subtitle": "Adobe Illustrator",
+    "text": "Logo design for a travel company event."
+  },
+  {
+    "image": "https://res.cloudinary.com/drxro4uha/image/upload/v1689225876/letterb-animation_so62ee.gif",
+    "title": "3D Typography Animation",
+    "subtitle": "Autodesk Maya",
+    "text": "3D typography animation created in Autodesk Maya."
   }
+
+  
 ]
